@@ -6,10 +6,8 @@ I’m always up for collaborating on exciting web development projects, bringing
 You can check out some of my work at:
 
 My Portfolio: kebbell.githubb.io
-
 Music-based website: kebbell.githubb.io/keb-radio
 
 
 Feel free to connect with me. 
-
 Looking forward to collaborating!
