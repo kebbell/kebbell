@@ -1,13 +1,13 @@
-# Hi, I'm @kebbell!
-I'm from the UK, and my hobbies include crate-digging for records and following Norwich City FC. As a frontend developer, I specialise in JavaScript, HTML, and CSS but also have experience working with React, Node.js, and TypeScript. I’m passionate about crafting intuitive, responsive user interfaces and always keen to expand my knowledge in modern frameworks and languages like SASS, Vue, and jQuery.
+#Hi, I'm @kebbell!
+I’m a frontend developer from the UK with a deep passion for crate-digging records and following Norwich City FC. My expertise lies in JavaScript, HTML, and CSS, but I also have substantial experience working with modern frameworks like React, Node.js, and TypeScript. I specialize in building intuitive, responsive user interfaces, and I’m always eager to dive deeper into emerging technologies like SASS, Vue, Angular, and jQuery.
 
-I’m always up for collaborating on exciting web development projects, bringing fresh ideas, and refining skills. If you’re looking for a developer who’s enthusiastic, adaptable, and committed to delivering quality work, let’s build something great together!
+With hands-on experience in AJAX, JSON, and API integration, I bring robust solutions to life, focusing on dynamic user experiences. Whether it’s crafting seamless front-end designs or working across the full JavaScript stack, I’m adaptable, enthusiastic, and committed to delivering quality code.
 
-You can check out some of my work at:
+I’m always open to collaborating on exciting web development projects, sharing fresh ideas, and continuously refining my skills. Let’s create something exceptional together!
 
-My Portfolio: kebbell.githubb.io
-Music-based website: kebbell.githubb.io/keb-radio
+You can explore some of my work here:
 
+Portfolio: kebbell.github.io
+Music-based website: kebbell.github.io/SEK
 
-Feel free to connect with me. 
-Looking forward to collaborating!
+Feel free to connect with me – I’m looking forward to collaborating!
