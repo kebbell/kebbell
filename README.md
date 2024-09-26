@@ -7,7 +7,7 @@ I’m always open to collaborating on exciting web development projects, sharing
 
 You can explore some of my work here:
 
-Portfolio: kebbell.github.io
+Portfolio: kebbell.github.io & 
 Music-based website: kebbell.github.io/SEK
 
 Feel free to connect with me – I’m looking forward to collaborating!
