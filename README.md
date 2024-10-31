@@ -3,7 +3,7 @@ I'm a frontend developer from the UK, I specialise in JavaScript, HTML, CSS, and
 
 Check out my work:
 
-Portfolio: kebbell.github.io  ||  
+Portfolio: kebbell.github.io  
 Music: kebbell.github.io/SEK
 
 Let’s collaborate on something amazing!
