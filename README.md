@@ -1,11 +1,1 @@
-# Hi, I'm @kebbell!
-
-I'm a frontend developer from the UK with a passion for crafting engaging web experiences. I specialize in JavaScript, HTML, CSS, and have expertise in frameworks like React, Node.js, TypeScript, and C#. As a Shopify Liquid developer, I excel at building responsive, dynamic user interfaces tailored to unique business needs.
-
-With hands-on experience in AJAX, JSON, API integration, and full-stack development, I deliver creative, robust solutions for every project. Whether it's modern frameworks or diving into new challenges, I’m ready to bring fresh energy to your ideas.
-
-Check out my work:
-🌐 Portfolio: kebbell.github.io
-🎵 Music: kebbell.github.io/SEK
-
-Let’s create something extraordinary together! 🚀
+I'm a software engineer from the UK with a focus on web development, creative coding, and audio technology. I specialise in JavaScript, TypeScript, React, Node.js, and C#, alongside experience in Shopify Liquid development. Beyond web applications, I work with digital instruments, plugins, and sound design, exploring interactive media with tools like TouchDesigner. Whether developing seamless user interfaces or building generative audio-visual experiences, I bring a technical and detail-driven approach to every project.
